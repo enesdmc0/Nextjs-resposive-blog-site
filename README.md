@@ -10,8 +10,6 @@
 
 
 
-> **Live Link:**  [https://nextjs-v13-tesla-clone.vercel.app/](https://nextjs-v13-tesla-clone.vercel.app/)
-
 
 
 ![][img1]
